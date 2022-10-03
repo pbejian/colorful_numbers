@@ -1,6 +1,6 @@
 ## Colorful Algorithm
 
-L'application est exécutable en ligne à l'adresse suivante :
+You can execute the app at the following URL:
 
 🚀 https://pbejian-colorful-numbers-app-pft4mu.streamlitapp.com
 
