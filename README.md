@@ -1,5 +1,9 @@
 ## Colorful Algorithm
 
+L'application est exécutable en ligne à l'adresse suivante :
+
+🚀 https://pbejian-colorful-numbers-app-pft4mu.streamlitapp.com
+
 ### Background and Objectives
 
 We can break a number into different contiguous sub-subsequence parts. For example, the number 324 can be broken into parts like (3, 2, 4, 32, 24, 324). A colorful number is a number where the products of all the subsets of the digits are different. eg:

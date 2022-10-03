@@ -39,6 +39,6 @@ inc.espace(2)
 
 st.write("""
     📝 Sources de l'application :
-    [https://github.com/pbejian/pryme](https://github.com/pbejian/pryme)
+    [https://github.com/pbejian/colorful_numbers](https://github.com/pbejian/colorful_numbers)
 """)
 #-------------------------------------------------------------------------------
