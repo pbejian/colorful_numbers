@@ -38,7 +38,7 @@ st.markdown("""
 inc.espace(2)
 
 st.write("""
-    📝 Sources de l'application :
+    📝 Sources of the app:
     [https://github.com/pbejian/colorful_numbers](https://github.com/pbejian/colorful_numbers)
 """)
 #-------------------------------------------------------------------------------
